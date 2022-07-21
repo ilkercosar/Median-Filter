@@ -3,7 +3,7 @@
 
 typedef struct{
 
-int *array; // array = malloc(size(int) * q.size); gibi tanımla
+int *array; 
 int size,head,tail,med,value;
 
 }queque;
